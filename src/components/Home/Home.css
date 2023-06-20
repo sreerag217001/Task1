@@ -1,0 +1,190 @@
+.home-header{
+    width: 100%;
+    height: 50px;
+   
+}
+.home-header input{
+    margin-left: 80%;
+   position: relative;
+   top:-30px;
+    background-image: linear-gradient(to right,#03e3fc,#010f40);
+    border: none;
+    border-radius: 2px;
+    width: 70px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 5%;
+}
+
+ 
+
+
+.container-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+}
+.container-home h4{
+font-size: 13px;
+text-align: center;
+margin-top: -20px;
+}
+::placeholder{
+    text-align: center;
+}
+.container-home input{
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+}
+.text h2{
+    text-align: center;
+    font-size: 13px;
+    margin-top: -60px;
+}
+.first{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+   margin: 10px;
+   margin-left: 180px;
+   box-shadow: 0px 0px 5px rgba(0 0 0.3);
+   border-radius: 2px;
+}
+.construction{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-left: 35%;
+    margin-top: -12%;
+}
+.education{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-left: 50%;
+    margin-top: -12%;
+}
+.consultancy{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-left: 65%;
+    margin-top: -12%;
+    
+}
+.logistics{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.manufacturing{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-top: -110px;
+    margin-left: 34%;
+}
+.tourism{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-top: -110px;
+    margin-left: 50%;
+}
+.it{
+    width:100px;
+    height:100px;
+    background-color: rgb(243, 255, 251);
+    box-shadow: 0px 0px 5px rgba(0 0 0.3);
+    border-radius: 2px;
+    margin: 10px;
+    margin-top: -110px;
+    margin-left: 65%;
+}
+.construction img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+   margin-top: 20px;
+}
+.education img{
+    width: 100px;
+    height: 100px;
+}
+.consultancy img{
+    width: 50pxpx;
+    height: 50px;
+   margin-left: 20px;
+   margin-top: 20px;
+    
+}
+.logistics img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+   margin-top: 20px;
+}
+.manufacturing img{
+    width: 80px;
+    height: 50px;
+    margin-top: 20px;
+}
+.tourism img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+   margin-top: 20px;
+}
+.it img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+   margin-top: 20px;
+}
+h6{
+    margin-left: 20px;
+    position: relative;
+    top:-20px;
+}
+.education h6{
+    position: relative;
+    top:-50px;
+}
+.next-button{
+    margin-left: 400px;
+    background-image: linear-gradient(to right,#03e3fc,#010f40);
+    border: none;
+    border-radius: 2px;
+    width: 70px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}
